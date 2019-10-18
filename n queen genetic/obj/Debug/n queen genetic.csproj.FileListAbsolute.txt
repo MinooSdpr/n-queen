@@ -1,0 +1,7 @@
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\bin\Debug\n queen genetic.exe.config
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\bin\Debug\n queen genetic.exe
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\bin\Debug\n queen genetic.pdb
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\obj\Debug\n queen genetic.csprojResolveAssemblyReference.cache
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\obj\Debug\n queen genetic.csproj.CoreCompileInputs.cache
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\obj\Debug\n queen genetic.exe
+F:\Code Depot\C#\Console Application\n queen genetic\n queen genetic\obj\Debug\n queen genetic.pdb
